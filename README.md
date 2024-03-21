@@ -9,3 +9,8 @@
 
 My primary research areas include mixed methods research, psychometrics, organizational behavior, and consumer behavior. I do research in topics like teamwork, materialism, frugality, self-control, and life’s satisfaction. 
 
+
+## Languages
+
+- Spanish
+- English
